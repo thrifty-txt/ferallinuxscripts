@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 if [ -z ${STEAM_RUNTIME} ]; then
 	echo "WARNING: ${FERAL_GAME_NAME_FULL} not launched within the steam runtime"
 	echo "         This is likely incorrect and is not officially supported"

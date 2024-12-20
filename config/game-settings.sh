@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 FERAL_GAME_NAME=""       # Short form name (game binary name)
 FERAL_GAME_NAME_FULL=""  # Long form name

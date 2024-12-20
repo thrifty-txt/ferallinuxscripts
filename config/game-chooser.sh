@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Allow us to overload the game being launched with an environment variable
 if [ ! -z "${FERAL_SCRIPT_LAUNCH_GAME}" ]; then
 	FERAL_GAME_NAME="${FERAL_SCRIPT_LAUNCH_GAME}"
